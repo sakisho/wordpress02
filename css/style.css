@@ -502,7 +502,7 @@ main {
 }
 
 .pagetop {
-  background-color: #75af57;
+  background: url(../img/arrow.png) no-repeat center center/contain;
   bottom: 30px;
   height: 40px;
   position: fixed;
